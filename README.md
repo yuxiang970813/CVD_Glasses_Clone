@@ -52,7 +52,3 @@ This is an unpacked chrome extension file. After downloading:
 ## How to Use this Project
 
 Just click the **ON/OFF** button to enable or disable the Colour Vision Deficiency Glasses Clone filter.
-
-## Video Demo
-
-<https://youtu.be/3DQSWijsSOI>

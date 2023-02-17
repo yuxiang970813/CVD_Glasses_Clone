@@ -6,6 +6,9 @@
 
 Colour Vision Deficiency Glasses Clone is a chrome extension implemented to alleviate colour vision deficiency. These glasses clones are only suitable for some types of colour vision (such as protanomaly and deuteranomaly). Its function is not to allow people with the colour vision to see colours that they would not otherwise be able to see but to help them distinguish between colours and similar shades.
 
+### Video Demo
+https://youtu.be/oOOzMytJlIY
+
 ### Technologies Used
 
 * HTML

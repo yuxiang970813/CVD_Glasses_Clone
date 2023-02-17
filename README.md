@@ -2,10 +2,6 @@
 
 ## Description
 
-### Background
-
-Colour vision deficiency (or CVD) is the decreased ability to see colour or differences in colour. Colour (colour) blindness (colour vision deficiency, or CVD) affects approximately 1 in 12 men (8%) and 1 in 200 women. In the UK there are approximately 3 million colour blind people (about 4.5% of the entire population), most of whom are male. Worldwide, there are estimated to be about 300 million people with colour blindness, almost the same number of people as the entire population of the USA! There are different types of colour blindness and in extremely rare cases people are unable to see any colour at all, but most colour blind people are unable to fully ‘see’ red, green or blue light.
-
 ### What this Application Does
 
 Colour Vision Deficiency Glasses Clone is a chrome extension implemented to alleviate colour vision deficiency. These glasses clones are only suitable for some types of colour vision (such as protanomaly and deuteranomaly). Its function is not to allow people with the colour vision to see colours that they would not otherwise be able to see but to help them distinguish between colours and similar shades.
